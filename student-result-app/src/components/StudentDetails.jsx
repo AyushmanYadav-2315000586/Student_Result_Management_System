@@ -33,7 +33,7 @@ export default function StudentDetails() {
 
       <div style={{ marginTop: "20px", textAlign: "center" }}>
         <button className="btn-primary" onClick={() => navigate("/")}>
-          Back to List
+          Back to the List
         </button>
       </div>
     </div>
